@@ -1,0 +1,1 @@
+def Qualitrix_logo(): return "//img[@alt=' Best automation testing, software testing companies in Bangalore - Qualitrix ']"

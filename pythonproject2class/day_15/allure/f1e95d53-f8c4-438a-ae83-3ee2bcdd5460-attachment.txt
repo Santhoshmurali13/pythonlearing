@@ -1,0 +1,18 @@
+initiating chrome driver
+https://qualitrix.com
+Qualitrix Application is launched Successfully
+Qualitrix logo is present
+Text color of the element : rgba(255, 255, 255, 1)
+Backgorund color of the element : rgba(242, 145, 17, 1)
+Hex value of Element Color : #ffffff
+Hex value of Background Color : #f29111
+white
+The hex value you provided couldn't be mapped with any known colors
+Unknown Color
+White
+Orange
+0px 28px
+center
+Padding value : 20px
+Font Size : 14px
+Padding value of the element is as expected

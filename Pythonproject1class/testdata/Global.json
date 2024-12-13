@@ -1,0 +1,16 @@
+{
+    "url_google": "https://www.google.com",
+    "url_docker": "https://www.docker.com",
+    "url_webucator": "https://www.webucator.com",
+    "url_heroku":"https://the-internet.herokuapp.com/",
+    "title": "Google",
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "username1": "Santhosh",
+    "lastname": "m",
+    "postal": "456773",
+    "sauce_title": "Swag Labs",
+    "letskodeit": "https://www.letskodeit.com/practice",
+    "url_saucelab": "https://www.saucedemo.com/",
+    "url_qualitrix": "https://www.qualitrix.com"
+}
